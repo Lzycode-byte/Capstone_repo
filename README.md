@@ -50,13 +50,14 @@ npm install
 bundle install
 rails s
 ```
-* Roadmap
-- [] Document support
-- [] Previews of uploaded document
-  - [] Only one document per request
-- [] Authentication
-- [] Admin and User separation
-- [] Show uploaded files of user in admin index
-  - [] Previews
-- [] E-Signatures
-- [] Verification
+
+# Roadmap
+- [ ] Document support
+- [ ] Previews of uploaded document
+  - [ ] Only one document per request
+- [ ] Authentication
+- [ ] Admin and User separation
+- [ ] Show uploaded files of user in admin index
+  - [ ] Previews
+- [ ] E-Signatures
+- [ ] Verification
