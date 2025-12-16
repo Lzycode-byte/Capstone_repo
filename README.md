@@ -13,6 +13,7 @@ Things you may want to cover:
 * Ruby
 * Rails
   * Setting up rails 
+    * In WSL
 ```shell
 sudo apt update
 sudo apt install build-essential rustc libssl-dev libyaml-dev zlib1g-dev libgmp-dev git
@@ -49,3 +50,13 @@ npm install
 bundle install
 rails s
 ```
+* Roadmap
+- [] Document support
+- [] Previews of uploaded document
+  - [] Only one document per request
+- [] Authentication
+- [] Admin and User separation
+- [] Show uploaded files of user in admin index
+  - [] Previews
+- [] E-Signatures
+- [] Verification
