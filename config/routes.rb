@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
-  get "documents/index"
-  get "documents/new"
-  get "documents/create"
+  resources :documents, only: [:index, :new, :create]
   root "documents#index"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
