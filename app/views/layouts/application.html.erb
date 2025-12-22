@@ -22,9 +22,15 @@
     <%= stylesheet_link_tag :app, "data-turbo-track": "reload" %>
     <%= javascript_importmap_tags %>
   </head>
-
   <body>
-    <main class="container mx-auto mt-28 px-5 flex">
+  <% if authenticated? %>
+  <%= render "layouts/navbar" %>
+    <% end %>
+<!--  <nav>-->
+    <%#= link_to "Home", root_path %>
+    <%#= button_tov "Log out", session_path, method: :delete if authenticated? %>
+<!--  </nav>-->
+    <main>
       <%= yield %>
     </main>
   </body>
