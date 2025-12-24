@@ -29,6 +29,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -37,16 +38,22 @@
     "Notification.DoNotAsk-DatabaseConfigFileWatcher.found": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1766370852085",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1766535888205",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/lyzcode-byte/RubymineProjects/capstone_project/app/views/sessions",
+    "last_opened_file_path": "/home/lyzcode-byte/RubymineProjects/capstone_project/db",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "configurable.group.database.main",
     "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,6 +61,7 @@
       <recent name="$PROJECT_DIR$/app/views/sessions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers" />
       <recent name="$PROJECT_DIR$/app/views/layouts" />
       <recent name="$PROJECT_DIR$/app/views/documents" />
     </key>
@@ -162,7 +170,12 @@
       <workItem from="1766185210634" duration="9871000" />
       <workItem from="1766299796203" duration="4000" />
       <workItem from="1766312526157" duration="166000" />
-      <workItem from="1766370790372" duration="1823000" />
+      <workItem from="1766370790372" duration="2666000" />
+      <workItem from="1766385355153" duration="16000" />
+      <workItem from="1766385381668" duration="13557000" />
+      <workItem from="1766443324318" duration="9230000" />
+      <workItem from="1766468083014" duration="7919000" />
+      <workItem from="1766535830396" duration="6957000" />
     </task>
     <servers />
   </component>
