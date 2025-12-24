@@ -51,13 +51,14 @@ bundle install
 rails s
 ```
 
-# Roadmap
+# Hit the road jack
 - [ ] Document support
 - [ ] Previews of uploaded document
   - [ ] Only one document per request
-- [ ] Authentication
+- [x] Authentication
 - [ ] Admin and User separation
 - [ ] Show uploaded files of user in admin index
   - [ ] Previews
+    - [x] Image preview at sign_up
 - [ ] E-Signatures
 - [ ] Verification
