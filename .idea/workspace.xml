@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e73334a-a2fd-4196-bbac-c4763251d6f2" name="Changes" comment="" />
+    <list default="true" id="2e73334a-a2fd-4196-bbac-c4763251d6f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/capstone_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/capstone_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/68d71cf9-1d16-4ad6-8635-138ace5f6b95.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/documents_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/documents_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mailers/passwords_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/mailers/passwords_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_navbar.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/passwords/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/passwords/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/passwords_mailer/reset.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/passwords_mailer/reset.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/sessions/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/passwords_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/passwords_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/sessions_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/sessions_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +33,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Ruby Module" />
+        <option value="Ruby Class" />
+        <option value="Ruby File" />
         <option value="ERB File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -26,6 +55,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="36n4ECX9FeY3g831Oba5Cha3eZK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,19 +68,25 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found": "New/updated database configurations found",
     "Notification.DoNotAsk-DatabaseConfigFileWatcher.found": "true",
+    "RunOnceActivity.RubyProjectSdkMigrationProjectActivity": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1766535888205",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1767866104027",
+    "git-widget-placeholder": "development",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/lyzcode-byte/RubymineProjects/capstone_project/db",
+    "last_opened_file_path": "/home/lyzycode-byte/Music/back/RubymineProjects/capstone_project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "configurable.group.database.main",
-    "to.speed.mode.migration.done": "true"
+    "settings.editor.selected.configurable": "Settings.JavaScript",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -61,10 +99,14 @@
       <recent name="$PROJECT_DIR$/app/views/sessions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/settings/password" />
       <recent name="$PROJECT_DIR$/app/controllers" />
       <recent name="$PROJECT_DIR$/app/views/layouts" />
       <recent name="$PROJECT_DIR$/app/views/documents" />
     </key>
+  </component>
+  <component name="RubocopSettings">
+    <option name="runOnSave" value="true" />
   </component>
   <component name="RunManager" selected="Rails.capstone_project">
     <configuration name="capstone_project" type="RailsRunConfigurationType" factoryName="Rails">
@@ -146,7 +188,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-RM-252.28238.3" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-RM-253.29346.140" />
       </set>
     </attachedChunks>
   </component>
@@ -176,6 +218,28 @@
       <workItem from="1766443324318" duration="9230000" />
       <workItem from="1766468083014" duration="7919000" />
       <workItem from="1766535830396" duration="6957000" />
+      <workItem from="1766544725974" duration="1286000" />
+      <workItem from="1766546515068" duration="464000" />
+      <workItem from="1766547002231" duration="129000" />
+      <workItem from="1766547144041" duration="9337000" />
+      <workItem from="1766558434163" duration="4000" />
+      <workItem from="1766661019316" duration="1000" />
+      <workItem from="1766663867424" duration="5000" />
+      <workItem from="1766663905451" duration="3977000" />
+      <workItem from="1766704194561" duration="85000" />
+      <workItem from="1767310458535" duration="13525000" />
+      <workItem from="1767346388511" duration="198000" />
+      <workItem from="1767346602122" duration="40000" />
+      <workItem from="1767346665953" duration="62000" />
+      <workItem from="1767346785826" duration="595000" />
+      <workItem from="1767347410403" duration="87000" />
+      <workItem from="1767347518708" duration="5831000" />
+      <workItem from="1767394127735" duration="15686000" />
+      <workItem from="1767657366605" duration="3813000" />
+      <workItem from="1767682674768" duration="10666000" />
+      <workItem from="1767700649518" duration="194000" />
+      <workItem from="1767772726853" duration="4692000" />
+      <workItem from="1767866037481" duration="3645000" />
     </task>
     <servers />
   </component>

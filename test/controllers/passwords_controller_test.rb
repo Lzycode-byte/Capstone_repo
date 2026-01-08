@@ -31,7 +31,7 @@ class PasswordsControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "edit with invalid password reset token" do
+  test "edit with invalid passwords reset token" do
     get edit_password_path("invalid token")
     assert_redirected_to new_password_path
 
@@ -61,7 +61,8 @@ class PasswordsControllerTest < ActionDispatch::IntegrationTest
   end
 
   private
-    def assert_notice(text)
-      assert_select "div", /#{text}/
-    end
+
+  def assert_notice(text)
+    assert_select "div", /#{text}/
+  end
 end
